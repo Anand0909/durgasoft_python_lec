@@ -1,1 +1,1 @@
-This is 10th lecture from drugasoft for explaining python
+This is lecture notes from drugasoft for python
